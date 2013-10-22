@@ -18,3 +18,17 @@ Hubby use many library on many languages such as :
 This projet was initialy started by Ebene Voundi Hervé Anthony, Ubber Enterprise Director and Hubby main developper.
 
 Make me know any bug tanks (Blair)
+
+-------------------------------------
+
+Download theme
+
+Nous sommes en train d'etablir les normes de création de thème, c'est la raison pour laquelle Hubby n'est pas founi
+actuellement avec un thème par défaut, d'où l'erreur qui s'affiche lorsque l'on tente d'accéder à la page principale
+sans avoir au préalable enregistré un thème.
+
+Cependant des thèmes sont déjà disponible en téléchargement et disponible à ces adresses :
+<br>
+<ul>
+  <li><a href="http://github.com/Blair2004/hubby_nova">Hubby Nova</a></li>
+</ul>
