@@ -1,4 +1,4 @@
-hubby-cms
+hubby-cms - 0.9.2 (En developpement)
 =========
 
 Hubby is a open-source CMS made on PHP (5.3). It's working with Codeigniter framework, more precisily it's 
@@ -21,14 +21,12 @@ Make me know any bug tanks (Blair)
 
 -------------------------------------
 
-Download theme
-
-Nous sommes en train d'etablir les normes de création de thème, c'est la raison pour laquelle Hubby n'est pas founi
-actuellement avec un thème par défaut, d'où l'erreur qui s'affiche lorsque l'on tente d'accéder à la page principale
-sans avoir au préalable enregistré un thème.
-
-Cependant des thèmes sont déjà disponible en téléchargement et disponible à ces adresses :
-<br>
+Nouveauté : 
 <ul>
-  <li><a href="http://github.com/Blair2004/hubby_nova">Hubby Nova</a></li>
+  <li>#ThemeControler : Cette nouvelle fonctionnalité permettra aux thèmes de gérer par un interface qu'ils implémenterons
+  certains aspects (Copyrigth, Signature, Widget, Reseaux sociaux...). Cela permettra de supprimer la fonctionnalité d'affichage
+  des widgets qui lui seront désormais délégués, sauf l'option de disponibilité du widget qui demeure dans l'espace de gestion
+  des widgets.</li>
+  <li>#Suppression de code superflus & fichiers associés</li>
+  ...
 </ul>
